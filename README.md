@@ -1,4 +1,3 @@
-# kavyapeddi[!MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm KavyaPeddi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1705390382~exp=1705390982~hmac=704b4ebd3fdccd133e29674b74477a85c3044701608e8a9b71ed54cb6e9354b2">
